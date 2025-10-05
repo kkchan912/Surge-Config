@@ -1,4 +1,6 @@
 # (DNS Cache Pollution Protection)
+# 06/10/2025
+
 # > Google
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
