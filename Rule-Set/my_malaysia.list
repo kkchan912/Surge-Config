@@ -1,0 +1,71 @@
+# 马来西亚> 政府>银行
+DOMAIN-SUFFIX,maybank2u.com.my
+DOMAIN-SUFFIX,cimbclicks.com.my
+DOMAIN-SUFFIX,rhbgroup.com
+DOMAIN-SUFFIX,rhbnow.com.my
+DOMAIN-SUFFIX,pbebank.com
+DOMAIN-SUFFIX,publicbank.com.my
+DOMAIN-SUFFIX,hlb.com.my
+DOMAIN-SUFFIX,hlbconnect.com.my
+DOMAIN-SUFFIX,bankislam.biz
+DOMAIN-SUFFIX,bankislam.com.my
+DOMAIN-SUFFIX,ambankgroup.com
+DOMAIN-SUFFIX,ambank.com.my
+DOMAIN-SUFFIX,uob.com.my
+DOMAIN-SUFFIX,hsbc.com.my
+DOMAIN-SUFFIX,ocbc.com.my
+DOMAIN-SUFFIX,bankrakyat.com.my
+DOMAIN-SUFFIX,agrobank.com.my
+DOMAIN-SUFFIX,affinonline.com
+DOMAIN-SUFFIX,affinalways.com
+DOMAIN-SUFFIX,allianceonline.com.my
+DOMAIN-SUFFIX,alliancebank.com.my
+DOMAIN-SUFFIX,mybsn.com.my
+DOMAIN-SUFFIX,bsn.com.my
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,citibank.com.my
+DOMAIN-SUFFIX,cimbocto.com.my
+DOMAIN-SUFFIX,rytbank.my
+DOMAIN-SUFFIX,zimperium.com
+
+# 支付网络 / 清算
+DOMAIN-SUFFIX,paynet.my
+DOMAIN-KEYWORD,duitnow
+DOMAIN-KEYWORD,fpx
+
+# 电子钱包 / 本地支付
+DOMAIN-SUFFIX,tngdigital.com.my
+DOMAIN-SUFFIX,tngdigital.com
+DOMAIN-SUFFIX,tngd.my
+DOMAIN-SUFFIX,myboost.com
+DOMAIN-SUFFIX,grabpay.com
+DOMAIN-SUFFIX,shopeepay.my
+DOMAIN-SUFFIX,setel.my
+DOMAIN-SUFFIX,myfave.com
+
+# 政府 / 公共服务
+DOMAIN-SUFFIX,gov.my
+
+DOMAIN-SUFFIX,kwsp.gov.my
+# EPF/KWSP
+DOMAIN-SUFFIX,hasil.gov.my
+# LHDN/税务
+DOMAIN-SUFFIX,imi.gov.my
+# 移民
+DOMAIN-SUFFIX,imigresen.gov.my
+# 移民（旧/别名）
+DOMAIN-SUFFIX,jpj.gov.my
+# 交通
+DOMAIN-SUFFIX,myeg.com.my
+DOMAIN-SUFFIX,mof.gov.my
+DOMAIN-SUFFIX,moh.gov.my
+DOMAIN-SUFFIX,pdrm.gov.my
+
+# 打车 / 外卖 / 同城配送
+DOMAIN-SUFFIX,grab.com
+DOMAIN-KEYWORD,grabtaxi
+DOMAIN-SUFFIX,foodpanda.my
+DOMAIN-SUFFIX,deliveryhero.net
+DOMAIN-SUFFIX,lalamove.com
+DOMAIN-SUFFIX,beepit.com
+DOMAIN-SUFFIX,airasia.com
