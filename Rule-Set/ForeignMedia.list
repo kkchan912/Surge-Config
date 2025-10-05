@@ -1,5 +1,6 @@
 # (ForeignMedia)
 # (Video)
+# 06/10/2025
 # > All4
 USER-AGENT,All4*
 DOMAIN-SUFFIX,c4assets.com
@@ -126,3 +127,16 @@ DOMAIN-SUFFIX,spoti.fi
 # > TIDAL
 USER-AGENT,TIDAL*
 DOMAIN-SUFFIX,tidal.com
+
+# TikTok 分流
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,akamaized.net
