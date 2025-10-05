@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,bdstatic.com
 # > ChinaNet
 DOMAIN-SUFFIX,21cn.com
 # > ByteDance
+DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
