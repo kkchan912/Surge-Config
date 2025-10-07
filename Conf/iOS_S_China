@@ -1,6 +1,7 @@
-#Surge5海外回国专用配置
-#适用于在海外访问中国网络服务
-#修改时间：2025年
+# iOS China Configuration - Optimized
+# Surge5海外回国专用配置
+# 适用于在海外访问中国网络服务
+# 修改时间：2025年
 
 [General]
 loglevel = notify
