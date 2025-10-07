@@ -130,9 +130,13 @@ DOMAIN-SUFFIX,tidal.com
 
 # TikTok 分流
 DOMAIN-KEYWORD,tiktok
+DOMAIN-SUFFIX,tiktokcdn.us
+DOMAIN-SUFFIX,tiktokcdn.eu
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktok.net
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktok.us
+DOMAIN-SUFFIX,tiktok.eu
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,bytedance.net
