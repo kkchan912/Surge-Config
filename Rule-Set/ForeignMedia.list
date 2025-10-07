@@ -129,6 +129,8 @@ USER-AGENT,TIDAL*
 DOMAIN-SUFFIX,tidal.com
 
 # TikTok 分流
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktok.net
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,byteoversea.com
