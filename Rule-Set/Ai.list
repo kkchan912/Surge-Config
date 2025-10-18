@@ -1,0 +1,49 @@
+# AI 相关服务分流规则（ChatGPT / Claude / Copilot / Gemini / Meta / Perplexity / Siri / Sora）
+# 更新时间：2025-10-19
+
+# > ChatGPT
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+
+# > Chat GPT API & CDN
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+
+# > Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# > Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,githubcopilot.com
+
+# > Gemini
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,gemini.google.com
+
+# > Meta AI
+DOMAIN-SUFFIX,meta.ai
+
+# > Perplexity AI
+DOMAIN-SUFFIX,perplexity.ai
+
+# > Siri
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,guzzoni.smoot.apple.com
+
+# > Sora
+DOMAIN-SUFFIX,sora-cdn.oaistatic.com
+DOMAIN-SUFFIX,sora.com
