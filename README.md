@@ -1,7 +1,7 @@
 # 🧠 Programmer Mood 101 💻😂  
 > *Talk is cheap. Show me the code.* — Linus Torvalds  
 
-![Talk is cheap. Show me the code.](https://your-image-link.com/code.jpg)
+![Talk is cheap. Show me the code.]
 
 ---
 
