@@ -21,9 +21,7 @@ git clone https://github.com/you/your-repo.git
 cd your-repo  
 npm install && npm start
 
-
-
-    ⚠️ 免责声明
+* ⚠️ 免责声明
 * 本项目仅供学习和研究使用
 • 请遵守当地法律法规
-•作者不承担任何使用风险
+• 作者不承担任何使用风险
