@@ -2,6 +2,21 @@
 ![Bug 数量](https://img.shields.io/badge/Bugs_Found-Too_Many_To_Count-orange)
 ![维护者](https://img.shields.io/badge/Maintained_By-Coffee_and_Tears-blue)
 
+# 🏆 我的 GitHub 荣誉室 (主要靠 Star 和 Copilot)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+### 奖杯注释
+> **铜杯:** 证明我至少会 `git commit`。
+>
+> **银杯:** 证明我比那些只看不 Star 的人好一点。
+>
+> **金杯:** 证明我可能熬夜了。
+
+
 # 🧠 Programmer Mood 101 💻😂  
 > *Talk is cheap. Show me the code.* — Linus Torvalds  
 
