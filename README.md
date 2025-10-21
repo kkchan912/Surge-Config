@@ -29,8 +29,7 @@
 
 假设您的主配置文件名为 `Surge.conf`，那么您应该使用的链接是：https://raw.githubusercontent.com/kkchan912/Surge-iOS/main/Conf/Surge.conf
 
-==
-
+```text
 
 ## 📜 许可证 (License)
 ### ⚠️ **The Copy-Paste and Pray (CPP) License**
