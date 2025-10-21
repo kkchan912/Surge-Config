@@ -11,11 +11,9 @@
 >
 > **金杯:** 证明我可能熬夜了。
 
-
-# 🧠 Programmer Mood 101 💻😂  
 > *Talk is cheap. Show me the code.* — Linus Torvalds  
 
-! [Talk is cheap. Show me the code.]
+> *[Talk is cheap. Show me the code.]
 
 ---
 
