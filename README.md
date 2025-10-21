@@ -27,5 +27,6 @@
 
 您需要找到您在 `Conf/` 文件夹中的主配置文件（例如 `Surge.conf` 或 `Main.conf`）。
 
-假设您的主配置文件名为 `Surge.conf`，那么您应该使用的链接是：
+假设您的主配置文件名为 `Surge.conf`，那么您应该使用的链接是：https://raw.githubusercontent.com/kkchan912/Surge-iOS/main/Conf/Surge.conf
+
 
