@@ -38,7 +38,5 @@
 1. **允许您随意复制粘贴**，无需署名，无需感谢。
 2. **禁止您询问任何 Bug**。因为 Bug 是您复制粘贴过程中产生的自然现象。
 3. **如果您发现代码能工作，请保持沉默**。我们不希望引起上帝的注意。
-
-
-[版本](https://img.shields.io/badge/version-1.0.0-blue)
-[许可证](https://img.shields.io/badge/license-MIT-green)
+![版本](https://img.shields.io/badge/version-1.0.0-blue)
+![许可证](https://img.shields.io/badge/license-MIT-green)
